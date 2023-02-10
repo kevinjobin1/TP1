@@ -1,3 +1,13 @@
-<resources>
-    <string name="app_name">TP1</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">TP1</string>
+    <string name="full_name">Kevin Jobin</string>
+    <string name="title_web_ext">Site Web (ext)</string>
+    <string name="title_web_wv">Site Web (wv)</string>
+    <string name="title_u_laval">Ulaval</string>
+    <string name="title_profile">Mon Profil</string>
+    <string name="button_close">Fermer</string>
+    <string name="label_first_name">Prénom :</string>
+    <string name="label_name">Nom :</string>
+    <string name="label_date_of_birth">Date de naissance :</string>
+    <string name="label_idul">IDUL :</string>
 </resources>
